@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ohnadir" alt="ohnadir" /></a> </p>
 
-- 🔭 I’m currently working on [Startech ,Booking, Appco](#)
+- 🔭 I’m currently working on [Addidas](#)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Docker**
 
-- 📫 How to reach me **qx.nadir@gmail.com**
+- 📫 How to reach me **nadirhossain336@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

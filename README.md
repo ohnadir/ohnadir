@@ -51,7 +51,7 @@ I love solving challenging problems, contributing to **open-source**, and contin
 
 ## 📫 Connect with Me
 
-- 🌐 **Portfolio:** [Nadir Hossain](https://portfolio-nadirhossain.vercel.app/)  
+- 🌐 **Portfolio:** [portfolio-nadirhossain.vercel.app](https://portfolio-nadirhossain.vercel.app)  
 - 💼 **LinkedIn:** [linkedin.com/in/ohnadir](https://linkedin.com/in/ohnadir)  
 - 📧 **Email:** [nadirhossain336@gmail.com](mailto:nadirhossain336@gmail.com)  
 

@@ -1,5 +1,3 @@
-# 👋 Hi, I'm **Nadir Hossain**
-
 ### 🌐 Backend Developer | Scalable Systems | MERN & DevOps
 
 ![Banner](https://res.cloudinary.com/ddqovbzxy/image/upload/v1758297001/Linkedin_Banner_cmnkad.png)

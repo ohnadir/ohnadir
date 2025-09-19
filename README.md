@@ -8,7 +8,7 @@ I love solving challenging problems, contributing to **open-source**, and contin
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ohnadir&label=Profile%20views&color=0e75b6&style=flat" alt="ohnadir" /> </p>
 
----
+-
 
 ## 🔧 Tech Stack
 

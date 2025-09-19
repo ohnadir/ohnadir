@@ -31,7 +31,7 @@ I love solving challenging problems, contributing to **open-source**, and contin
 ---
 
 ## 📊 GitHub Insights
-<div align="center" style="display: flex; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; align-items: center; justify-content: between;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=ohnadir&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   

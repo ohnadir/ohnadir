@@ -8,6 +8,8 @@ I’m a dedicated **Backend Developer** specializing in **Node.js** and modern b
 Passionate about building **scalable systems**, **high-performance APIs**, and **clean architectures**.  
 I love solving challenging problems, contributing to **open-source**, and continuously learning new tools to craft efficient solutions.  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ohnadir&label=Profile%20views&color=0e75b6&style=flat" alt="ohnadir" /> </p>
+
 ---
 
 ## 🔧 Tech Stack

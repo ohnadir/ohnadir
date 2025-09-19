@@ -28,8 +28,7 @@ I love solving challenging problems, contributing to **open-source**, and contin
 - 🐳 Docker  
 - 🚀 CI/CD: GitHub Actions 
 - ☁️ AWS | Vercel | VPS | DigitalOcean  
-- 📝 Postman | Swagger | OpenAPI  
-- 🔍 ElasticSearch | Log Monitoring | Performance Tuning  
+- 📝 Postman | Swagger | OpenAPI
 
 ---
 

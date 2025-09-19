@@ -30,7 +30,7 @@ I love solving challenging problems, contributing to **open-source**, and contin
 
 ---
 
-## 📊 GitHub Insights
+### 📊 GitHub Insights
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=ohnadir&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
   <img tyle="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnadir&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />

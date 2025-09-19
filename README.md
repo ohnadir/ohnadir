@@ -31,9 +31,13 @@ I love solving challenging problems, contributing to **open-source**, and contin
 ---
 
 ## 📊 GitHub Insights
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohnadir&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnadir&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=ohnadir&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohnadir&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 
+</div>
 ---
 
 ## 🌱 Currently Exploring

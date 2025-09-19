@@ -1,58 +1,60 @@
-# 👋 Hi, This is **Nadir Hossain**
+# 👋 Hi, I'm **Nadir Hossain**
 
-### 🚀 Backend Developer | Backend Specialist
+### 🚀 Backend Developer | MERN Stack Specialist | DevOps Learner
 
 ![Banner](https://res.cloudinary.com/ddqovbzxy/image/upload/v1758297001/Linkedin_Banner_cmnkad.png)
 
-I’m a passionate **MERN Stack Developer** and **Backend Specialist**, focused on building **high-performance web applications**, **scalable backend systems**, and **engaging user experiences**. I love contributing to **open-source**, solving complex problems, and learning **cutting-edge technologies** to deliver **efficient and innovative solutions**.  
+I’m a dedicated **Backend Developer** specializing in **MERN stack** and modern backend technologies.  
+Passionate about building **scalable systems**, **high-performance APIs**, and **clean architectures**.  
+I love solving challenging problems, contributing to **open-source**, and continuously learning new tools to craft efficient solutions.  
 
 ---
 
 ## 🔧 Tech Stack
 
-### **Frontend**
-- 🖥️ **React.js | Next.js**
-- 🎨 **Tailwind CSS | Bootstrap | Material-UI**
-- 🔥 **Redux Toolkit | Context API | Zustand**
-- ⚡ **TypeScript | JavaScript (ES6+)**
-
 ### **Backend**
-- 🛠️ **Node.js | Express.js | Nest.js**
-- 💾 **MongoDB | Mongoose | MySQL | PostgreSQL**
-- 📦 **RESTful APIs | GraphQL | WebSockets**
-- ⚡ **Redis | Pub/Sub Messaging | Caching Strategies**
+- 🛠️ Node.js | Express.js | Nest.js  
+- 💾 MongoDB | Mongoose | MySQL | PostgreSQL  
+- 🔌 RESTful APIs | GraphQL | WebSockets  
+- ⚡ Redis | Pub/Sub | Caching Strategies  
+
+### **Frontend**
+- ⚡ React.js | Next.js  
+- 🎨 Tailwind CSS | Bootstrap | Material-UI  
+- 🔥 Redux Toolkit | Context API | Zustand  
+- 📜 TypeScript | JavaScript (ES6+)  
 
 ### **DevOps & Tools**
-- 🐳 **Docker | Kubernetes | Terraform**
-- 🚀 **CI/CD:** GitHub Actions, Jenkins, CircleCI
-- ☁️ **Cloud Platforms:** AWS, Vercel, Firebase, DigitalOcean
-- 📝 **API & Docs:** Postman, Swagger, OpenAPI
-- 🔍 **Monitoring & Optimization:** ElasticSearch, Log Monitoring, Performance Tuning
+- 🐳 Docker | Kubernetes | Terraform  
+- 🚀 CI/CD: GitHub Actions | Jenkins | CircleCI  
+- ☁️ AWS | Vercel | Firebase | DigitalOcean  
+- 📝 Postman | Swagger | OpenAPI  
+- 🔍 ElasticSearch | Log Monitoring | Performance Tuning  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohnadir&show_icons=true&theme=tokyonight&animate=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnadir&layout=compact&theme=tokyonight&animate=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohnadir&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ohnadir&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🌱 Currently Exploring
 
-- 🚀 **FastAPI** for high-performance backend systems  
-- 💳 **Stripe Payment Integration** for secure transactions  
-- 📚 **Advanced Data Structures & Algorithms** to enhance problem-solving  
-- 🔍 **Microservices Architecture** for scalable distributed systems  
+- 🚀 **FastAPI** – building high-performance backend systems  
+- 💳 **Stripe Integration** – secure & scalable payments  
+- 📚 **Advanced DSA** – strengthening problem-solving  
+- 🔍 **Microservices** – designing distributed, fault-tolerant apps  
 
 ---
 
 ## 📫 Connect with Me
 
-- 🌐 **Portfolio:** [your-portfolio-link](https://your-portfolio-link.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
-- 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+- 🌐 **Portfolio:** [nadir.dev](https://your-portfolio-link.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/nadir-hossain](https://linkedin.com/in/your-linkedin)  
+- 📧 **Email:** [nadir@example.com](mailto:your-email@example.com)  
 
 ---
 
-⭐ **If you like my work, don’t forget to give a star!** ⭐  
+⭐ *If you find my projects useful, consider giving them a star — it keeps me motivated!* ⭐

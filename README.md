@@ -1,10 +1,10 @@
 # 👋 Hi, I'm **Nadir Hossain**
 
-### 🌐 Backend Engineer | Scalable Systems | MERN & DevOps
+### 🌐 Backend Developer | Scalable Systems | MERN & DevOps
 
 ![Banner](https://res.cloudinary.com/ddqovbzxy/image/upload/v1758297001/Linkedin_Banner_cmnkad.png)
 
-I’m a dedicated **Backend Developer** specializing in **MERN stack** and modern backend technologies.  
+I’m a dedicated **Backend Developer** specializing in **Node.js** and modern backend technologies.  
 Passionate about building **scalable systems**, **high-performance APIs**, and **clean architectures**.  
 I love solving challenging problems, contributing to **open-source**, and continuously learning new tools to craft efficient solutions.  
 
@@ -13,21 +13,21 @@ I love solving challenging problems, contributing to **open-source**, and contin
 ## 🔧 Tech Stack
 
 ### **Backend**
-- 🛠️ Node.js | Express.js | Nest.js  
-- 💾 MongoDB | Mongoose | MySQL | PostgreSQL  
-- 🔌 RESTful APIs | GraphQL | WebSockets  
+- 🛠️ Node.js | Express.js  
+- 💾 MongoDB | Mongoose | MySQL | Prisma
+- 🔌 RESTful APIs | Socket.io
 - ⚡ Redis | Pub/Sub | Caching Strategies  
 
 ### **Frontend**
 - ⚡ React.js | Next.js  
-- 🎨 Tailwind CSS | Bootstrap | Material-UI  
-- 🔥 Redux Toolkit | Context API | Zustand  
+- 🎨 Tailwind CSS | And Design  
+- 🔥 Redux Toolkit | Zustand  
 - 📜 TypeScript | JavaScript (ES6+)  
 
 ### **DevOps & Tools**
-- 🐳 Docker | Kubernetes | Terraform  
-- 🚀 CI/CD: GitHub Actions | Jenkins | CircleCI  
-- ☁️ AWS | Vercel | Firebase | DigitalOcean  
+- 🐳 Docker  
+- 🚀 CI/CD: GitHub Actions 
+- ☁️ AWS | Vercel | VPS | DigitalOcean  
 - 📝 Postman | Swagger | OpenAPI  
 - 🔍 ElasticSearch | Log Monitoring | Performance Tuning  
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Nadir Hossain**
 
-### 🚀 Backend Developer | MERN Stack Specialist | DevOps Learner
+### 🌐 Backend Engineer | Scalable Systems | MERN & DevOps
 
 ![Banner](https://res.cloudinary.com/ddqovbzxy/image/upload/v1758297001/Linkedin_Banner_cmnkad.png)
 
